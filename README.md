@@ -9,7 +9,6 @@ A program that gives the user two options:
   * The second option is to calculate the monthly payments of a loan. The user is requested to input the house value, the interest rate and the number of years, before th e program calculates and prints the value of each monthly repayment.
 
 Difensive coding is uded to handle invalid inputs.
-
 <br>
 
 ## 2. Prefixes and Suffixes
